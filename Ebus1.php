@@ -81,7 +81,7 @@ $_SESSION['txtTotal'] = $totalValue;
         </style>
         
         <div class="form">
-            <form name="intCalc" method="post" action="ebus2.php">
+            <form name="intCalc" method="post" action="Ebus2.php">
                
                 
                 <br> <!-- break tag --> 
