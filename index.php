@@ -165,7 +165,7 @@
          <div class="column">        
              <div class="consulting">
   <img src="menuconsulting.jpg" alt="cv image" style="width:150%">
-  <button class="btn">Consulting Services</button>
+  <a class="btn" href="ConsultingServicesHomePage.html">Consulting Services</a>
 </div>
        
    </div>
