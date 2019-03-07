@@ -126,7 +126,7 @@ label {
         
         </style>
         <div class="form">
-            <form name="Details" method="post" action="ebus3.php">
+            <form name="Details" method="post" action="Ebus3.php">
                 
                 <br>
                 <br>
