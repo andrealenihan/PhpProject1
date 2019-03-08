@@ -142,7 +142,7 @@ label {
                 <br>
                 <br>
                    
-                <center>
+                            <center>
                     <table cellspacing="10">
                        
                         <tr>
@@ -151,11 +151,17 @@ label {
                         </tr>
                         <tr>
                             <td>Phone Number</td>
-                            <td><input type="text" id="txtNum" name="txtNum" value=""></td>
+                            <td><input type="tel" id="txtNum" name="txtNum" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" ></td>
                         </tr>
                         <tr>
                             <td>Password</td>
-                            <td><input type="text" id="txtPassword" name="txtPassword" value=""></td>
+                            <td><input type="password" id="psw" name="psw" pattern="[0-9]{4}"></td>
+                        </tr>
+                        <tr>
+                            <td>Email</td>
+                            <td><input type="email" id="txtEmail" name="txtEmail" 
+                                       title="Format:____@____.____"required>
+                            </td>
                         </tr>
                         <tr>
                             
